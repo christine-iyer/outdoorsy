@@ -12,22 +12,24 @@ level.forEach(cardsRound => console.log(cardsRound +2));
 //Link text
 playerLivesCount.textContent = playerLives;
 const getData = ()=> [
-{ imgSrc: src='images/a.png', name: 'a'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'b'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'c'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'd'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'e'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'f'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'g'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'k'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'a'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'b'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'c'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'd'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'e'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'f'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'g'},
-{ imgSrc: src='images/a.png', name: 'a', name: 'k'}
+{ imgSrc: src='https://i.imgur.com/ulbTfQz.jpg'},
+{ imgSrc: src='https://i.imgur.com/erLtmkk.jpg'},
+{ imgSrc: src='https://i.imgur.com/2t1qofq.jpg'},
+{ imgSrc: src='https://i.imgur.com/5SRnEpK.jpg'},
+{ imgSrc: src='https://i.imgur.com/lNztzSO.jpg'},
+{ imgSrc: src='https://i.imgur.com/qZaiRa4.jpg'},
+{ imgSrc: src='https://i.imgur.com/vSqlCI1.jpg'},
+{ imgSrc: src='https://i.imgur.com/OpYeYPX.jpg'},
+{ imgSrc: src='https://i.imgur.com/XQwZyvs.jpg'},
+{imgSrc: src='https://i.imgur.com/ulbTfQz.jpg'},
+{ imgSrc: src='https://i.imgur.com/erLtmkk.jpg'},
+{ imgSrc: src='https://i.imgur.com/2t1qofq.jpg'},
+{ imgSrc: src='https://i.imgur.com/5SRnEpK.jpg'},
+{ imgSrc: src='https://i.imgur.com/lNztzSO.jpg'},
+{ imgSrc: src='https://i.imgur.com/qZaiRa4.jpg'},
+{ imgSrc: src='https://i.imgur.com/vSqlCI1.jpg'},
+{ imgSrc: src='https://i.imgur.com/OpYeYPX.jpg'},
+{ imgSrc: src='https://i.imgur.com/XQwZyvs.jpg'}
 ]
 //randomize
 const randomize = ()=>{

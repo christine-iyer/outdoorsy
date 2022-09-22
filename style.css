@@ -13,9 +13,9 @@ body {
      background: -webkit-linear-gradient(
           to right,
           #acb6e5,
-          #74ebd5
+          #ea7cf8
           );
-          background:linear-gradient(to right, #acb6e5, #74ebd5);
+          background:linear-gradient(to right, #acb6e5, #ea7cf8);
           display: flex;
           justify-content: center;
           align-items: center;
@@ -43,7 +43,7 @@ section{
      position: absolute;
 }
 .back {
-     background: lavenderblush;
+     background: rgb(207, 35, 93);
      backface-visibility: hidden;
 }
 .toggleCard{

@@ -1,3 +1,8 @@
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
 *{
      margin: 0;
      padding-left: 0;
@@ -23,6 +28,7 @@ section{
      grid-gap: 2rem;
      perspective: 800px;
 }
+
 .card {
      position: relative;
      transform-style: preserve-3d;
@@ -43,3 +49,6 @@ section{
 .toggleCard{
      transform: rotateY(180deg);
 }
+img {
+     max-width: 100%;
+   }

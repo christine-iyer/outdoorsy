@@ -12,22 +12,22 @@ level.forEach(cardsRound => console.log(cardsRound +2));
 //Link text
 playerLivesCount.textContent = playerLives;
 const getData = ()=> [
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'a'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'b'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'c'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'd'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'e'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'f'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'g'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'k'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'a'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'b'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'c'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'd'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'e'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'f'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'g'},
-{ imgSrc: src='https://i.imgur.com/7L8jD86s.jpg', name: 'k'}
+{ imgSrc: src='images/a.png', name: 'a'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'b'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'c'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'd'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'e'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'f'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'g'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'k'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'a'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'b'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'c'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'd'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'e'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'f'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'g'},
+{ imgSrc: src='images/a.png', name: 'a', name: 'k'}
 ]
 //randomize
 const randomize = ()=>{
